@@ -20,7 +20,7 @@ O projeto foi implementado em Python e organizado em etapas bem definidas:
 
 ## 📊 Resultado da Análise
 
-Com base nas métricas analisadas no arquivo `By.Cararini...`:
+Com base nas métricas analisadas no arquivo `By.Cararini.AluraStoreBr.ipynb`:
 
 - 🏆 **Melhor Loja: Loja 4**
   - Teve o maior faturamento total
